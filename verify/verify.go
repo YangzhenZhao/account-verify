@@ -110,7 +110,6 @@ func Verify(
 	}
 
 	for code, vol := range noTradePositions {
-		fmt.Println(code, vol)
 		if vol < 0 {
 			log.Fatalln("vol = ", vol)
 		}
