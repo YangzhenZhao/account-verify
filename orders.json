@@ -1,0 +1,1437 @@
+[
+  {
+    "Code": "000977",
+    "Side": "buy",
+    "TotalFee": 6630000,
+    "DeaVol": 100,
+    "DealValue": 4421000000
+  },
+  {
+    "Code": "603085",
+    "Side": "buy",
+    "TotalFee": 7040000,
+    "DeaVol": 600,
+    "DealValue": 4698000000
+  },
+  {
+    "Code": "002396",
+    "Side": "buy",
+    "TotalFee": 6040000,
+    "DeaVol": 100,
+    "DealValue": 4030000000
+  },
+  {
+    "Code": "000715",
+    "Side": "buy",
+    "TotalFee": 6820000,
+    "DeaVol": 700,
+    "DealValue": 4550000000
+  },
+  {
+    "Code": "002843",
+    "Side": "buy",
+    "TotalFee": 6360000,
+    "DeaVol": 500,
+    "DealValue": 4245000000
+  },
+  {
+    "Code": "600633",
+    "Side": "buy",
+    "TotalFee": 6840000,
+    "DeaVol": 400,
+    "DealValue": 4560000000
+  },
+  {
+    "Code": "002458",
+    "Side": "buy",
+    "TotalFee": 5240000,
+    "DeaVol": 200,
+    "DealValue": 3494000000
+  },
+  {
+    "Code": "603855",
+    "Side": "buy",
+    "TotalFee": 5600000,
+    "DeaVol": 200,
+    "DealValue": 3736000000
+  },
+  {
+    "Code": "000656",
+    "Side": "buy",
+    "TotalFee": 7050000,
+    "DeaVol": 500,
+    "DealValue": 4700000000
+  },
+  {
+    "Code": "002376",
+    "Side": "buy",
+    "TotalFee": 6780000,
+    "DeaVol": 400,
+    "DealValue": 4524000000
+  },
+  {
+    "Code": "600900",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "000056",
+    "Side": "buy",
+    "TotalFee": 6930000,
+    "DeaVol": 1100,
+    "DealValue": 4620000000
+  },
+  {
+    "Code": "600520",
+    "Side": "buy",
+    "TotalFee": 7020000,
+    "DeaVol": 500,
+    "DealValue": 4680000000
+  },
+  {
+    "Code": "002152",
+    "Side": "buy",
+    "TotalFee": 6630000,
+    "DeaVol": 300,
+    "DealValue": 4425000000
+  },
+  {
+    "Code": "603823",
+    "Side": "buy",
+    "TotalFee": 5500000,
+    "DeaVol": 200,
+    "DealValue": 3672000000
+  },
+  {
+    "Code": "601162",
+    "Side": "buy",
+    "TotalFee": 6920000,
+    "DeaVol": 600,
+    "DealValue": 4614000000
+  },
+  {
+    "Code": "688139",
+    "Side": "buy",
+    "TotalFee": 17160000,
+    "DeaVol": 200,
+    "DealValue": 11440000000
+  },
+  {
+    "Code": "002277",
+    "Side": "buy",
+    "TotalFee": 6870000,
+    "DeaVol": 1000,
+    "DealValue": 4580000000
+  },
+  {
+    "Code": "002474",
+    "Side": "buy",
+    "TotalFee": 7290000,
+    "DeaVol": 600,
+    "DealValue": 4860000000
+  },
+  {
+    "Code": "601949",
+    "Side": "buy",
+    "TotalFee": 7140000,
+    "DeaVol": 800,
+    "DealValue": 4760000000
+  },
+  {
+    "Code": "000739",
+    "Side": "buy",
+    "TotalFee": 7230000,
+    "DeaVol": 200,
+    "DealValue": 4826000000
+  },
+  {
+    "Code": "600556",
+    "Side": "buy",
+    "TotalFee": 6370000,
+    "DeaVol": 200,
+    "DealValue": 4250000000
+  },
+  {
+    "Code": "600826",
+    "Side": "buy",
+    "TotalFee": 6820000,
+    "DeaVol": 400,
+    "DealValue": 4548000000
+  },
+  {
+    "Code": "002787",
+    "Side": "buy",
+    "TotalFee": 6520000,
+    "DeaVol": 600,
+    "DealValue": 4350000000
+  },
+  {
+    "Code": "000977",
+    "Side": "buy",
+    "TotalFee": 6640000,
+    "DeaVol": 100,
+    "DealValue": 4430000000
+  },
+  {
+    "Code": "603085",
+    "Side": "buy",
+    "TotalFee": 7040000,
+    "DeaVol": 600,
+    "DealValue": 4698000000
+  },
+  {
+    "Code": "002396",
+    "Side": "buy",
+    "TotalFee": 6030000,
+    "DeaVol": 100,
+    "DealValue": 4022000000
+  },
+  {
+    "Code": "000715",
+    "Side": "buy",
+    "TotalFee": 6840000,
+    "DeaVol": 700,
+    "DealValue": 4564000000
+  },
+  {
+    "Code": "002843",
+    "Side": "buy",
+    "TotalFee": 6370000,
+    "DeaVol": 500,
+    "DealValue": 4250000000
+  },
+  {
+    "Code": "600633",
+    "Side": "buy",
+    "TotalFee": 6780000,
+    "DeaVol": 400,
+    "DealValue": 4520000000
+  },
+  {
+    "Code": "002458",
+    "Side": "buy",
+    "TotalFee": 5250000,
+    "DeaVol": 200,
+    "DealValue": 3500000000
+  },
+  {
+    "Code": "603855",
+    "Side": "buy",
+    "TotalFee": 5600000,
+    "DeaVol": 200,
+    "DealValue": 3736000000
+  },
+  {
+    "Code": "000656",
+    "Side": "buy",
+    "TotalFee": 7030000,
+    "DeaVol": 500,
+    "DealValue": 4690000000
+  },
+  {
+    "Code": "002376",
+    "Side": "buy",
+    "TotalFee": 6780000,
+    "DeaVol": 400,
+    "DealValue": 4520000000
+  },
+  {
+    "Code": "600900",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "000056",
+    "Side": "buy",
+    "TotalFee": 6930000,
+    "DeaVol": 1100,
+    "DealValue": 4620000000
+  },
+  {
+    "Code": "600520",
+    "Side": "buy",
+    "TotalFee": 7010000,
+    "DeaVol": 500,
+    "DealValue": 4675000000
+  },
+  {
+    "Code": "002152",
+    "Side": "buy",
+    "TotalFee": 6640000,
+    "DeaVol": 300,
+    "DealValue": 4428000000
+  },
+  {
+    "Code": "603823",
+    "Side": "buy",
+    "TotalFee": 5500000,
+    "DeaVol": 200,
+    "DealValue": 3670000000
+  },
+  {
+    "Code": "601162",
+    "Side": "buy",
+    "TotalFee": 6910000,
+    "DeaVol": 600,
+    "DealValue": 4608000000
+  },
+  {
+    "Code": "002277",
+    "Side": "buy",
+    "TotalFee": 6850000,
+    "DeaVol": 1000,
+    "DealValue": 4570000000
+  },
+  {
+    "Code": "002474",
+    "Side": "buy",
+    "TotalFee": 7290000,
+    "DeaVol": 600,
+    "DealValue": 4860000000
+  },
+  {
+    "Code": "601949",
+    "Side": "buy",
+    "TotalFee": 7110000,
+    "DeaVol": 800,
+    "DealValue": 4744000000
+  },
+  {
+    "Code": "000739",
+    "Side": "buy",
+    "TotalFee": 7220000,
+    "DeaVol": 200,
+    "DealValue": 4818000000
+  },
+  {
+    "Code": "600556",
+    "Side": "buy",
+    "TotalFee": 6300000,
+    "DeaVol": 200,
+    "DealValue": 4200000000
+  },
+  {
+    "Code": "600826",
+    "Side": "buy",
+    "TotalFee": 6820000,
+    "DeaVol": 400,
+    "DealValue": 4548000000
+  },
+  {
+    "Code": "002787",
+    "Side": "buy",
+    "TotalFee": 6510000,
+    "DeaVol": 600,
+    "DealValue": 4344000000
+  },
+  {
+    "Code": "600888",
+    "Side": "buy",
+    "TotalFee": 7120000,
+    "DeaVol": 900,
+    "DealValue": 4752000000
+  },
+  {
+    "Code": "600605",
+    "Side": "buy",
+    "TotalFee": 7030000,
+    "DeaVol": 400,
+    "DealValue": 4692000000
+  },
+  {
+    "Code": "603218",
+    "Side": "buy",
+    "TotalFee": 5920000,
+    "DeaVol": 200,
+    "DealValue": 3950000000
+  },
+  {
+    "Code": "600095",
+    "Side": "buy",
+    "TotalFee": 5890000,
+    "DeaVol": 300,
+    "DealValue": 3930000000
+  },
+  {
+    "Code": "002608",
+    "Side": "buy",
+    "TotalFee": 7410000,
+    "DeaVol": 700,
+    "DealValue": 4942000000
+  },
+  {
+    "Code": "601658",
+    "Side": "buy",
+    "TotalFee": 6890000,
+    "DeaVol": 900,
+    "DealValue": 4599000000
+  },
+  {
+    "Code": "300539",
+    "Side": "buy",
+    "TotalFee": 6840000,
+    "DeaVol": 600,
+    "DealValue": 4560000000
+  },
+  {
+    "Code": "603758",
+    "Side": "buy",
+    "TotalFee": 6730000,
+    "DeaVol": 600,
+    "DealValue": 4488000000
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300436",
+    "Side": "buy",
+    "TotalFee": 5100000,
+    "DeaVol": 100,
+    "DealValue": 3401000000
+  },
+  {
+    "Code": "600189",
+    "Side": "buy",
+    "TotalFee": 7260000,
+    "DeaVol": 1400,
+    "DealValue": 4844000000
+  },
+  {
+    "Code": "600719",
+    "Side": "buy",
+    "TotalFee": 6870000,
+    "DeaVol": 1000,
+    "DealValue": 4580000000
+  },
+  {
+    "Code": "300835",
+    "Side": "buy",
+    "TotalFee": 11020000,
+    "DeaVol": 100,
+    "DealValue": 7350000000
+  },
+  {
+    "Code": "300383",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300807",
+    "Side": "buy",
+    "TotalFee": 6610000,
+    "DeaVol": 100,
+    "DealValue": 4412000000
+  },
+  {
+    "Code": "300182",
+    "Side": "buy",
+    "TotalFee": 7150000,
+    "DeaVol": 1000,
+    "DealValue": 4770000000
+  },
+  {
+    "Code": "688015",
+    "Side": "buy",
+    "TotalFee": 15000000,
+    "DeaVol": 200,
+    "DealValue": 10000000000
+  },
+  {
+    "Code": "300778",
+    "Side": "buy",
+    "TotalFee": 5040000,
+    "DeaVol": 100,
+    "DealValue": 3360000000
+  },
+  {
+    "Code": "600617",
+    "Side": "buy",
+    "TotalFee": 7160000,
+    "DeaVol": 1100,
+    "DealValue": 4774000000
+  },
+  {
+    "Code": "688218",
+    "Side": "buy",
+    "TotalFee": 9090000,
+    "DeaVol": 200,
+    "DealValue": 6060000000
+  },
+  {
+    "Code": "300172",
+    "Side": "buy",
+    "TotalFee": 7030000,
+    "DeaVol": 900,
+    "DealValue": 4689000000
+  },
+  {
+    "Code": "300121",
+    "Side": "buy",
+    "TotalFee": 6740000,
+    "DeaVol": 500,
+    "DealValue": 4495000000
+  },
+  {
+    "Code": "300491",
+    "Side": "buy",
+    "TotalFee": 5910000,
+    "DeaVol": 300,
+    "DealValue": 3945000000
+  },
+  {
+    "Code": "688278",
+    "Side": "buy",
+    "TotalFee": 22190000,
+    "DeaVol": 200,
+    "DealValue": 14796000000
+  },
+  {
+    "Code": "002580",
+    "Side": "buy",
+    "TotalFee": 6930000,
+    "DeaVol": 800,
+    "DealValue": 4624000000
+  },
+  {
+    "Code": "002355",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "600329",
+    "Side": "buy",
+    "TotalFee": 5610000,
+    "DeaVol": 200,
+    "DealValue": 3740000000
+  },
+  {
+    "Code": "603619",
+    "Side": "buy",
+    "TotalFee": 6260000,
+    "DeaVol": 300,
+    "DealValue": 4173000000
+  },
+  {
+    "Code": "002843",
+    "Side": "buy",
+    "TotalFee": 1270000,
+    "DeaVol": 100,
+    "DealValue": 849000000
+  },
+  {
+    "Code": "002458",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "603855",
+    "Side": "buy",
+    "TotalFee": 2790000,
+    "DeaVol": 100,
+    "DealValue": 1866000000
+  },
+  {
+    "Code": "600900",
+    "Side": "buy",
+    "TotalFee": 5710000,
+    "DeaVol": 200,
+    "DealValue": 3810000000
+  },
+  {
+    "Code": "000056",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "603823",
+    "Side": "buy",
+    "TotalFee": 2750000,
+    "DeaVol": 100,
+    "DealValue": 1835000000
+  },
+  {
+    "Code": "002277",
+    "Side": "buy",
+    "TotalFee": 680000,
+    "DeaVol": 100,
+    "DealValue": 455000000
+  },
+  {
+    "Code": "002787",
+    "Side": "buy",
+    "TotalFee": 1080000,
+    "DeaVol": 100,
+    "DealValue": 723000000
+  },
+  {
+    "Code": "600888",
+    "Side": "buy",
+    "TotalFee": 7120000,
+    "DeaVol": 900,
+    "DealValue": 4752000000
+  },
+  {
+    "Code": "600605",
+    "Side": "buy",
+    "TotalFee": 7030000,
+    "DeaVol": 400,
+    "DealValue": 4692000000
+  },
+  {
+    "Code": "603218",
+    "Side": "buy",
+    "TotalFee": 5910000,
+    "DeaVol": 200,
+    "DealValue": 3942000000
+  },
+  {
+    "Code": "600095",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "002608",
+    "Side": "buy",
+    "TotalFee": 6360000,
+    "DeaVol": 600,
+    "DealValue": 4242000000
+  },
+  {
+    "Code": "601658",
+    "Side": "buy",
+    "TotalFee": 6890000,
+    "DeaVol": 900,
+    "DealValue": 4599000000
+  },
+  {
+    "Code": "300539",
+    "Side": "buy",
+    "TotalFee": 6830000,
+    "DeaVol": 600,
+    "DealValue": 4554000000
+  },
+  {
+    "Code": "603758",
+    "Side": "buy",
+    "TotalFee": 6710000,
+    "DeaVol": 600,
+    "DealValue": 4476000000
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300436",
+    "Side": "buy",
+    "TotalFee": 5100000,
+    "DeaVol": 100,
+    "DealValue": 3404000000
+  },
+  {
+    "Code": "600189",
+    "Side": "buy",
+    "TotalFee": 7240000,
+    "DeaVol": 1400,
+    "DealValue": 4830000000
+  },
+  {
+    "Code": "600719",
+    "Side": "buy",
+    "TotalFee": 6910000,
+    "DeaVol": 1000,
+    "DealValue": 4610000000
+  },
+  {
+    "Code": "300383",
+    "Side": "buy",
+    "TotalFee": 4460000,
+    "DeaVol": 100,
+    "DealValue": 2974000000
+  },
+  {
+    "Code": "300807",
+    "Side": "buy",
+    "TotalFee": 6610000,
+    "DeaVol": 100,
+    "DealValue": 4412000000
+  },
+  {
+    "Code": "300182",
+    "Side": "buy",
+    "TotalFee": 7150000,
+    "DeaVol": 1000,
+    "DealValue": 4770000000
+  },
+  {
+    "Code": "300778",
+    "Side": "buy",
+    "TotalFee": 5010000,
+    "DeaVol": 100,
+    "DealValue": 3342000000
+  },
+  {
+    "Code": "600617",
+    "Side": "buy",
+    "TotalFee": 7260000,
+    "DeaVol": 1100,
+    "DealValue": 4840000000
+  },
+  {
+    "Code": "300172",
+    "Side": "buy",
+    "TotalFee": 7020000,
+    "DeaVol": 900,
+    "DealValue": 4680000000
+  },
+  {
+    "Code": "300121",
+    "Side": "buy",
+    "TotalFee": 6690000,
+    "DeaVol": 500,
+    "DealValue": 4465000000
+  },
+  {
+    "Code": "300491",
+    "Side": "buy",
+    "TotalFee": 5910000,
+    "DeaVol": 300,
+    "DealValue": 3945000000
+  },
+  {
+    "Code": "002580",
+    "Side": "buy",
+    "TotalFee": 6920000,
+    "DeaVol": 800,
+    "DealValue": 4616000000
+  },
+  {
+    "Code": "002355",
+    "Side": "buy",
+    "TotalFee": 6510000,
+    "DeaVol": 700,
+    "DealValue": 4340000000
+  },
+  {
+    "Code": "600329",
+    "Side": "buy",
+    "TotalFee": 5610000,
+    "DeaVol": 200,
+    "DealValue": 3740000000
+  },
+  {
+    "Code": "603619",
+    "Side": "buy",
+    "TotalFee": 6260000,
+    "DeaVol": 300,
+    "DealValue": 4176000000
+  },
+  {
+    "Code": "300584",
+    "Side": "buy",
+    "TotalFee": 11810000,
+    "DeaVol": 300,
+    "DealValue": 7878000000
+  },
+  {
+    "Code": "000715",
+    "Side": "buy",
+    "TotalFee": 970000,
+    "DeaVol": 100,
+    "DealValue": 651000000
+  },
+  {
+    "Code": "600900",
+    "Side": "buy",
+    "TotalFee": 5720000,
+    "DeaVol": 200,
+    "DealValue": 3814000000
+  },
+  {
+    "Code": "600095",
+    "Side": "buy",
+    "TotalFee": 1960000,
+    "DeaVol": 100,
+    "DealValue": 1307000000
+  },
+  {
+    "Code": "601658",
+    "Side": "buy",
+    "TotalFee": 760000,
+    "DeaVol": 100,
+    "DealValue": 511000000
+  },
+  {
+    "Code": "603758",
+    "Side": "buy",
+    "TotalFee": 1110000,
+    "DeaVol": 100,
+    "DealValue": 745000000
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "600719",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300383",
+    "Side": "buy",
+    "TotalFee": 4460000,
+    "DeaVol": 100,
+    "DealValue": 2975000000
+  },
+  {
+    "Code": "300491",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "002355",
+    "Side": "buy",
+    "TotalFee": 7440000,
+    "DeaVol": 800,
+    "DealValue": 4960000000
+  },
+  {
+    "Code": "600329",
+    "Side": "buy",
+    "TotalFee": 2800000,
+    "DeaVol": 100,
+    "DealValue": 1871000000
+  },
+  {
+    "Code": "603619",
+    "Side": "buy",
+    "TotalFee": 2080000,
+    "DeaVol": 100,
+    "DealValue": 1390000000
+  },
+  {
+    "Code": "300405",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "002458",
+    "Side": "buy",
+    "TotalFee": 2620000,
+    "DeaVol": 100,
+    "DealValue": 1747000000
+  },
+  {
+    "Code": "600900",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "000056",
+    "Side": "buy",
+    "TotalFee": 630000,
+    "DeaVol": 100,
+    "DealValue": 420000000
+  },
+  {
+    "Code": "603218",
+    "Side": "buy",
+    "TotalFee": 2950000,
+    "DeaVol": 100,
+    "DealValue": 1969000000
+  },
+  {
+    "Code": "600095",
+    "Side": "buy",
+    "TotalFee": 5890000,
+    "DeaVol": 300,
+    "DealValue": 3930000000
+  },
+  {
+    "Code": "300539",
+    "Side": "buy",
+    "TotalFee": 1130000,
+    "DeaVol": 100,
+    "DealValue": 758000000
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300383",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300121",
+    "Side": "buy",
+    "TotalFee": 1340000,
+    "DeaVol": 100,
+    "DealValue": 893000000
+  },
+  {
+    "Code": "002580",
+    "Side": "buy",
+    "TotalFee": 860000,
+    "DeaVol": 100,
+    "DealValue": 578000000
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "600719",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300491",
+    "Side": "buy",
+    "TotalFee": 1960000,
+    "DeaVol": 100,
+    "DealValue": 1310000000
+  },
+  {
+    "Code": "300405",
+    "Side": "buy",
+    "TotalFee": 14060000,
+    "DeaVol": 1500,
+    "DealValue": 9375000000
+  },
+  {
+    "Code": "002474",
+    "Side": "buy",
+    "TotalFee": 14490000,
+    "DeaVol": 1200,
+    "DealValue": 9660000000
+  },
+  {
+    "Code": "002277",
+    "Side": "buy",
+    "TotalFee": 14390000,
+    "DeaVol": 2100,
+    "DealValue": 9597000000
+  },
+  {
+    "Code": "002787",
+    "Side": "buy",
+    "TotalFee": 14020000,
+    "DeaVol": 1300,
+    "DealValue": 9347000000
+  },
+  {
+    "Code": "000656",
+    "Side": "buy",
+    "TotalFee": 14050000,
+    "DeaVol": 1000,
+    "DealValue": 9370000000
+  },
+  {
+    "Code": "002152",
+    "Side": "buy",
+    "TotalFee": 13250000,
+    "DeaVol": 600,
+    "DealValue": 8838000000
+  },
+  {
+    "Code": "000977",
+    "Side": "buy",
+    "TotalFee": 13230000,
+    "DeaVol": 200,
+    "DealValue": 8820000000
+  },
+  {
+    "Code": "603823",
+    "Side": "buy",
+    "TotalFee": 13570000,
+    "DeaVol": 500,
+    "DealValue": 9050000000
+  },
+  {
+    "Code": "000715",
+    "Side": "buy",
+    "TotalFee": 14530000,
+    "DeaVol": 1500,
+    "DealValue": 9690000000
+  },
+  {
+    "Code": "002376",
+    "Side": "buy",
+    "TotalFee": 13480000,
+    "DeaVol": 800,
+    "DealValue": 8992000000
+  },
+  {
+    "Code": "600520",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "603085",
+    "Side": "buy",
+    "TotalFee": 14180000,
+    "DeaVol": 1200,
+    "DealValue": 9456000000
+  },
+  {
+    "Code": "000739",
+    "Side": "buy",
+    "TotalFee": 14470000,
+    "DeaVol": 400,
+    "DealValue": 9648000000
+  },
+  {
+    "Code": "600900",
+    "Side": "buy",
+    "TotalFee": 14310000,
+    "DeaVol": 500,
+    "DealValue": 9545000000
+  },
+  {
+    "Code": "002396",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "601949",
+    "Side": "buy",
+    "TotalFee": 14200000,
+    "DeaVol": 1600,
+    "DealValue": 9472000000
+  },
+  {
+    "Code": "000056",
+    "Side": "buy",
+    "TotalFee": 14450000,
+    "DeaVol": 2300,
+    "DealValue": 9637000000
+  },
+  {
+    "Code": "688139",
+    "Side": "buy",
+    "TotalFee": 17360000,
+    "DeaVol": 200,
+    "DealValue": 11576000000
+  },
+  {
+    "Code": "002458",
+    "Side": "buy",
+    "TotalFee": 12970000,
+    "DeaVol": 500,
+    "DealValue": 8650000000
+  },
+  {
+    "Code": "603855",
+    "Side": "buy",
+    "TotalFee": 14100000,
+    "DeaVol": 500,
+    "DealValue": 9405000000
+  },
+  {
+    "Code": "600826",
+    "Side": "buy",
+    "TotalFee": 13640000,
+    "DeaVol": 800,
+    "DealValue": 9096000000
+  },
+  {
+    "Code": "601162",
+    "Side": "buy",
+    "TotalFee": 13820000,
+    "DeaVol": 1200,
+    "DealValue": 9216000000
+  },
+  {
+    "Code": "600633",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "600556",
+    "Side": "buy",
+    "TotalFee": 12670000,
+    "DeaVol": 400,
+    "DealValue": 8448000000
+  },
+  {
+    "Code": "002608",
+    "Side": "buy",
+    "TotalFee": 13800000,
+    "DeaVol": 1300,
+    "DealValue": 9204000000
+  },
+  {
+    "Code": "300182",
+    "Side": "buy",
+    "TotalFee": 14400000,
+    "DeaVol": 2000,
+    "DealValue": 9600000000
+  },
+  {
+    "Code": "603758",
+    "Side": "buy",
+    "TotalFee": 14390000,
+    "DeaVol": 1300,
+    "DealValue": 9594000000
+  },
+  {
+    "Code": "002355",
+    "Side": "buy",
+    "TotalFee": 14010000,
+    "DeaVol": 1500,
+    "DealValue": 9345000000
+  },
+  {
+    "Code": "300121",
+    "Side": "buy",
+    "TotalFee": 14750000,
+    "DeaVol": 1100,
+    "DealValue": 9834000000
+  },
+  {
+    "Code": "300835",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "002843",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300491",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300778",
+    "Side": "buy",
+    "TotalFee": 10140000,
+    "DeaVol": 200,
+    "DealValue": 6766000000
+  },
+  {
+    "Code": "603218",
+    "Side": "buy",
+    "TotalFee": 14730000,
+    "DeaVol": 500,
+    "DealValue": 9825000000
+  },
+  {
+    "Code": "002580",
+    "Side": "buy",
+    "TotalFee": 14730000,
+    "DeaVol": 1700,
+    "DealValue": 9826000000
+  },
+  {
+    "Code": "603619",
+    "Side": "buy",
+    "TotalFee": 14610000,
+    "DeaVol": 700,
+    "DealValue": 9744000000
+  },
+  {
+    "Code": "300383",
+    "Side": "buy",
+    "TotalFee": 13350000,
+    "DeaVol": 300,
+    "DealValue": 8904000000
+  },
+  {
+    "Code": "300807",
+    "Side": "buy",
+    "TotalFee": 13230000,
+    "DeaVol": 200,
+    "DealValue": 8824000000
+  },
+  {
+    "Code": "688015",
+    "Side": "buy",
+    "TotalFee": 14940000,
+    "DeaVol": 200,
+    "DealValue": 9962000000
+  },
+  {
+    "Code": "300436",
+    "Side": "buy",
+    "TotalFee": 10130000,
+    "DeaVol": 200,
+    "DealValue": 6754000000
+  },
+  {
+    "Code": "600617",
+    "Side": "buy",
+    "TotalFee": 14350000,
+    "DeaVol": 2200,
+    "DealValue": 9570000000
+  },
+  {
+    "Code": "600719",
+    "Side": "buy",
+    "TotalFee": 14420000,
+    "DeaVol": 2100,
+    "DealValue": 9618000000
+  },
+  {
+    "Code": "688278",
+    "Side": "buy",
+    "TotalFee": 22200000,
+    "DeaVol": 200,
+    "DealValue": 14800000000
+  },
+  {
+    "Code": "600605",
+    "Side": "buy",
+    "TotalFee": 14010000,
+    "DeaVol": 800,
+    "DealValue": 9344000000
+  },
+  {
+    "Code": "600095",
+    "Side": "buy",
+    "TotalFee": 13740000,
+    "DeaVol": 700,
+    "DealValue": 9163000000
+  },
+  {
+    "Code": "600888",
+    "Side": "buy",
+    "TotalFee": 14170000,
+    "DeaVol": 1800,
+    "DealValue": 9450000000
+  },
+  {
+    "Code": "601658",
+    "Side": "buy",
+    "TotalFee": 14530000,
+    "DeaVol": 1900,
+    "DealValue": 9690000000
+  },
+  {
+    "Code": "688218",
+    "Side": "buy",
+    "TotalFee": 9040000,
+    "DeaVol": 200,
+    "DealValue": 6030000000
+  },
+  {
+    "Code": "300539",
+    "Side": "buy",
+    "TotalFee": 14620000,
+    "DeaVol": 1300,
+    "DealValue": 9750000000
+  },
+  {
+    "Code": "600329",
+    "Side": "buy",
+    "TotalFee": 14090000,
+    "DeaVol": 500,
+    "DealValue": 9395000000
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "600520",
+    "Side": "buy",
+    "TotalFee": 14040000,
+    "DeaVol": 1000,
+    "DealValue": 9360000000
+  },
+  {
+    "Code": "002396",
+    "Side": "buy",
+    "TotalFee": 11950000,
+    "DeaVol": 200,
+    "DealValue": 7970000000
+  },
+  {
+    "Code": "600633",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300835",
+    "Side": "buy",
+    "TotalFee": 10990000,
+    "DeaVol": 100,
+    "DealValue": 7331000000
+  },
+  {
+    "Code": "002843",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300491",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "000982",
+    "Side": "buy",
+    "TotalFee": 14700000,
+    "DeaVol": 7600,
+    "DealValue": 9804000000
+  },
+  {
+    "Code": "300405",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "300405",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "600189",
+    "Side": "buy",
+    "TotalFee": 14490000,
+    "DeaVol": 2800,
+    "DealValue": 9660000000
+  },
+  {
+    "Code": "603855",
+    "Side": "buy",
+    "TotalFee": 14100000,
+    "DeaVol": 500,
+    "DealValue": 9400000000
+  },
+  {
+    "Code": "002277",
+    "Side": "buy",
+    "TotalFee": 14360000,
+    "DeaVol": 2100,
+    "DealValue": 9576000000
+  },
+  {
+    "Code": "603823",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "000056",
+    "Side": "buy",
+    "TotalFee": 14490000,
+    "DeaVol": 2300,
+    "DealValue": 9660000000
+  },
+  {
+    "Code": "000739",
+    "Side": "buy",
+    "TotalFee": 14640000,
+    "DeaVol": 400,
+    "DealValue": 9760000000
+  },
+  {
+    "Code": "601949",
+    "Side": "buy",
+    "TotalFee": 14200000,
+    "DeaVol": 1600,
+    "DealValue": 9472000000
+  },
+  {
+    "Code": "002396",
+    "Side": "buy",
+    "TotalFee": 0,
+    "DeaVol": 0,
+    "DealValue": 0
+  },
+  {
+    "Code": "603823",
+    "Side": "buy",
+    "TotalFee": 13600000,
+    "DeaVol": 500,
+    "DealValue": 9070000000
+  },
+  {
+    "Code": "002396",
+    "Side": "buy",
+    "TotalFee": 5990000,
+    "DeaVol": 100,
+    "DealValue": 3998000000
+  },
+  {
+    "Code": "300405",
+    "Side": "buy",
+    "TotalFee": 5560000,
+    "DeaVol": 600,
+    "DealValue": 3708000000
+  }
+]
